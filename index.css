@@ -1,0 +1,8 @@
+body {
+    background: black !important;
+}
+
+#profile-image {
+    height: 320px;
+    width: 350px;
+}
